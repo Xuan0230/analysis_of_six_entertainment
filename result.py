@@ -1,3 +1,5 @@
+import pandas as pd
+
 # Conversion rates used in this calculation (approximate, for current time)
 KRW_to_TWD = 0.024  # 1 KRW = 0.024 TWD
 # Data for conversion
@@ -44,7 +46,6 @@ hybe_twd = {year: hybe_data[year] * KRW_to_TWD * 1000 for year in hybe_data}
 sm_twd = {year: sm_data[year] * KRW_to_TWD * 1000 for year in sm_data}
 him_twd = {year: sum(value for value in data) for year, data in him_data.items()} 
 yg_twd = {year: yg_data[year] * KRW_to_TWD * 1000 for year in yg_data}
-import pandas as pd
 
 # Create a DataFrame
 data_dict = {
