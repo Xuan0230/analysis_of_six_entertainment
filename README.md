@@ -14,6 +14,7 @@ The main objective of this analysis is to evaluate the financial performance and
 4. HYBE (South Korea)
 5. SM Entertainment Co., Ltd (South Korea)
 6. YG Entertainment Inc. (South Korea)
+7. B'IN LIVE CO LTD (Taiwan)
 
 ## Data Sources
 1. https://tw.tradingview.com/symbols/TPEX-8446/financials-revenue/
@@ -22,6 +23,7 @@ The main objective of this analysis is to evaluate the financial performance and
 4. https://tw.tradingview.com/symbols/KRX-352820/financials-revenue/
 5. https://tw.tradingview.com/symbols/KRX-041510/financials-revenue/
 6. https://tw.tradingview.com/symbols/KRX-122870/financials-revenue/
+7. https://tw.tradingview.com/symbols/TWSE-6625/financials-revenue/
 
 ## Tools Used
 - Python (Pandas)
