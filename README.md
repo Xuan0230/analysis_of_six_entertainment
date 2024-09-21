@@ -3,7 +3,7 @@
 This Analysis involves analyzing the financial reports of six companies from 2021 to 2023, including those from Taiwan and South Korea.
 
 ## Objective
-The main objective of this analysis is to evaluate the financial performance and trends of these companies over the specified period. Key metrics such as revenue, profit margins, and expenses will be analyzed.
+The main objective of this analysis is to evaluate the financial performance and trends of these companies over the specified period.
 
 ## Companies Included
 1. Him International Music Inc. (Taiwan)
