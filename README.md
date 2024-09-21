@@ -5,6 +5,8 @@ This Analysis involves analyzing the financial reports of six companies from 202
 ## Objective
 The main objective of this analysis is to evaluate the financial performance and trends of these companies over the specified period.
 
+![image](https://raw.githubusercontent.com/Xuan0230/analysis_of_six_entertainment_company/refs/heads/main/company_revenue_animation.gif)
+
 ## Companies Included
 1. Him International Music Inc. (Taiwan)
 2. Cube Entertainment, Inc. (South Korea)
